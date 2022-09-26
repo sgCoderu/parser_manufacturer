@@ -1,2 +1,3 @@
-# parser_manufacturer
-Парсер производителей (ivtextil) с экспортом в .csv
+## About Project
+
+Manufacturers' parser (ivtextil) with export to .csv.
